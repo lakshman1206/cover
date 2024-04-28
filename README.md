@@ -47,7 +47,7 @@ Publish the website in the LocalHost.
            margin-right: auto;
            padding: 20px;
            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-           background-image: url(static/img/back.jpg);
+           background-image: url(static/img/backs.jpg);
            background-size: cover;
        }
            
